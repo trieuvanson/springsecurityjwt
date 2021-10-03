@@ -31,7 +31,7 @@ public class SpringsecurityjwtApplication {
 //			userService.saveRole(new Role(null, "2"));
 //			userService.saveRole(new Role(null, "3"));
 //
-//			userService.saveUser(new User(null, "A", "AA", "1234", new ArrayList<>()));
+//			userService.saveUser(new User(null, "123", "tvs", "1234", new ArrayList<>()));
 //			userService.saveUser(new User(null, "B", "BB", "1234", new ArrayList<>()));
 //			userService.saveUser(new User(null, "C", "CC", "1234", new ArrayList<>()));
 //
